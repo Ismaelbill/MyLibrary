@@ -12,7 +12,7 @@ This project was developed using **Next.js** and **Vite** to build a fast and re
 To install and run the project locally:
 
 1. Clone the repository:
-git clone (https://github.com/Ismaelbill/MyLibrary)
+git clone https://github.com/Ismaelbill/MyLibrary
 2. Navigate to the project folder:
 cd MyLibrary
 3. Install dependencies:
